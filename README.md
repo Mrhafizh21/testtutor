@@ -1,8 +1,10 @@
 # testtutor
-Perhatian ini cuman buat test github aja/
-termux-setup-storage/
-pkg install git
-isi terserah kalian
+Perhatian ini cuman buat test github aja
+inget ini isi terserah kalian
+misal saya isi seperti ini
+gan tolong kasih copyright
+nah seperti itu gan
+kalo masih gak paham pc gw yak mueheh
 oh iya klo mau spasi harus gini gan
 kalo gak begitu gak bisa ya gan
 nih kalo gk percaya gan
