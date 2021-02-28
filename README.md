@@ -14,3 +14,6 @@ sekian dari saya wkwk
 kalo gak bisa kalian bisa tanya
 dah sekian dri saya
 see you xixixi 
+# note
+script ini menggunakan Java.Sript 100%
+sekian update dri saya 
