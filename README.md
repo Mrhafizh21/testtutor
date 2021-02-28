@@ -1,6 +1,6 @@
 # testtutor
-Perhatian ini cuman buat test github aja
-termux-setup-storage
+Perhatian ini cuman buat test github aja/
+termux-setup-storage/
 pkg install git
 isi terserah kalian
 oh iya klo mau spasi harus gini gan
